@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snake Game</title>
+  <link rel="shortcut icon" href="img/snake.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+  <body>
+    <div class="container">
+      <span id="msg"></span>
+      <div class="inst">
+        <h1>Instruções</h1>
+        <p>Velocidade alta</p>
+        <p>Utilize os indicadores &larr; &uarr; &rarr; &darr;</p>
+        <p>Ou as teclas W, A, S, D</p>
+        <input class="btn buttonLoser" type="button" value="Recomeçar" onClick="window.location.reload()">
+
+      </div>
+      <canvas id="snake" width="608" height="608"></canvas>
+    
+    </div>
+    <script src="js/script.js"></script>
+  </body>
+</html>
