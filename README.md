@@ -96,7 +96,7 @@ Project Link: [https://github.com/SilasRodrigues19/snake-game-silasrodrigues19.v
 [stars-url]: https://github.com/SilasRodrigues19/snake-game-silasrodrigues19.vercel.app/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/snake-game-silasrodrigues19.vercel.app.svg?style=for-the-badge
 [issues-url]: https://github.com/SilasRodrigues19/snake-game-silasrodrigues19.vercel.app/issues
-[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/snake-game-silasrodrigues19.vercel.app.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/snake-game-silasrodrigues19.vercel.app?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/snake-game-silasrodrigues19.vercel.app/blob/main/LICENSE
 [product-screenshot]: https://i.ibb.co/bPds3jt/snake.png
 
