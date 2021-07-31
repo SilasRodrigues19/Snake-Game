@@ -100,3 +100,6 @@ Project Link: [https://github.com/SilasRodrigues19/snake-game-silasrodrigues19.v
 [license-url]: https://github.com/SilasRodrigues19/snake-game-silasrodrigues19.vercel.app/blob/main/LICENSE
 [product-screenshot]: https://i.ibb.co/bPds3jt/snake.png
 
+<br><hr>
+[🔼 Back to top](#Snake-Game)
+
