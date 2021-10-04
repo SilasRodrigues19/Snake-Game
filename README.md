@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="http://silasdev.epizy.com">
+  <a href="https://js-snakegame.vercel.app">
     <img src="https://cdn.pixabay.com/photo/2017/09/17/16/01/snake-2758853_1280.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,7 +16,7 @@
   <p align="center">
     Snake Game made with JavaScript.
     <br />
-    <a href="https://snake-game-ruddy.vercel.app"><strong>View Demo »</strong></a>
+    <a href="https://js-snakegame.vercel.app"><strong>View Demo »</strong></a>
     <br />
   </p>
 </p>
