@@ -6,6 +6,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<samp>
 <p align="center">
   <a href="https://js-snakegame.vercel.app">
     <img src="https://cdn.pixabay.com/photo/2017/09/17/16/01/snake-2758853_1280.png" alt="Logo" width="80" height="80">
