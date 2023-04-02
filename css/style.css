@@ -11,9 +11,8 @@ body {
 }
 
 .inst  {
-  position:absolute;
-  animation: fadeInRight;
-  animation-duration: 5s;
+  position: absolute;
+  animation: fadeInRight 2s ease-in-out;
   left: 55px;
   display: flex;
   justify-content: flex-end;
@@ -23,9 +22,7 @@ body {
 
 #snake {
   border-radius: 25px;
-  animation: fadeInLeft;
-  animation-duration: 5s;
-  transition: 1s;
+  animation: fadeInLeft 2s ease-in-out;
   margin: 5px;
 }
 
